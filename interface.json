@@ -1,0 +1,16 @@
+{
+    "Ukrainian": 
+    {
+        "Convert": "Конвертувати!",
+        "Text": "Текст",
+        "Interface language": "Мова інтерфейсу:",
+        "Placeholder_text": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!"
+    },
+    "English":
+    {
+        "Convert": "Convert!",
+        "Text": "Text",
+        "Interface language": "Interface language:",
+        "Placeholder_text": "The quick brown fox jumps over lazy dog"
+    }
+}
